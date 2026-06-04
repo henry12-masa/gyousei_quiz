@@ -30,7 +30,7 @@ const quizInfo = {
     title: "ひっかけ問題",
     desc: "数字・例外・判例の誤文対策"
   }
-  gyouseihou-advanced: {
+  gyouseihouadvanced: {
     title: "行政法上級100問",
     desc: "行政法総論・行政手続法・不服審査法・行政事件訴訟法・国家賠償法"
   }
