@@ -30,16 +30,6 @@ const quizInfo = {
   kiso: {
     title: "基礎知識",
     desc: "政治・経済・社会・情報通信・個人情報保護"
-  },
-
-  practice: {
-    title: "総合演習",
-    desc: "全科目ミックス"
-  },
-
-  mistake: {
-    title: "ひっかけ問題",
-    desc: "数字・例外・判例の誤文対策"
   }
 };
 
